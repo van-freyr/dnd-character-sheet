@@ -14,10 +14,10 @@
     "mammoth": "^1.6.0",
     "pdfjs-dist": "^4.0.379",
     "solid-js": "^1.8.0",
+    "solid-start": "^0.3.11",
     "zod": "^3.22.4"
   },
   "devDependencies": {
-    "solid-start": "^0.4.0",
     "typescript": "^5.0.0"
   }
 }
