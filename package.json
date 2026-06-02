@@ -4,20 +4,21 @@
   "description": "Single-page fillable D&D character sheet with PDF export and AI-powered import",
   "type": "module",
   "scripts": {
-    "dev": "solid-start dev",
-    "build": "solid-start build",
-    "start": "solid-start start"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
+    "solid-js": "^1.8.0",
+    "zod": "^3.22.4",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.5.31",
-    "mammoth": "^1.6.0",
     "pdfjs-dist": "^4.0.379",
-    "solid-js": "^1.8.0",
-    "solid-start": "^0.3.11",
-    "zod": "^3.22.4"
+    "mammoth": "^1.6.0"
   },
   "devDependencies": {
+    "vite": "^5.0.0",
+    "solid-js": "^1.8.0",
     "typescript": "^5.0.0"
   }
 }
