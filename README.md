@@ -62,20 +62,7 @@ npm start
 
 ## Configuration
 
-### AI Import (Optional)
 
-To enable AI-powered character sheet import:
-
-1. Get an API key from [Lovable](https://www.lovable.dev/)
-2. Create a `.env` file in the project root:
-
-```env
-LOVABLE_API_KEY=your_key_here
-```
-
-Without this key, the import button will error gracefully.
-
-## Usage
 
 ### Creating Characters
 
