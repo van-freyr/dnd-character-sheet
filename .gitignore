@@ -1,0 +1,10 @@
+node_modules/
+dist/
+release/
+
+build/*
+!build/vanfreyr.ico
+
+.electron-builder-cache/
+*.log
+
