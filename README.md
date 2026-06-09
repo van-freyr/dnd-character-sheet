@@ -30,7 +30,7 @@ A single-page, client-side fillable character sheet for D&D 5e with PDF export a
   - TXT: native File API
   - PDF: pdfjs-dist
   - DOCX: mammoth
-- **AI Parsing**: Lovable AI Gateway (google/gemini-2.5-flash)
+- 
 - **Validation**: Zod schemas
 
 ## Getting Started
